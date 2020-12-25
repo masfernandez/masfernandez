@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups! (6 days ago)
+- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups! (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) ([v0.0.1](https://github.com/masfernandez/nginx-proxy-local-development/releases/tag/v0.0.1), 6 days ago) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
+- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) ([v0.0.1](https://github.com/masfernandez/nginx-proxy-local-development/releases/tag/v0.0.1), 1 week ago) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
 
 #### 📜 My recent blog posts
 
