@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) -  (today)
 - [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups! (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -11,6 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) ([v0.0.1](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs/releases/tag/v0.0.1), today) - 
 - [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) ([v0.0.1](https://github.com/masfernandez/nginx-proxy-local-development/releases/tag/v0.0.1), 3 weeks ago) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
 
 #### 📜 My recent blog posts
