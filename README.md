@@ -4,10 +4,12 @@
 
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of... (2 days ago)
 - [masfernandez/embalses](https://github.com/masfernandez/embalses) - PHP kata (5 days ago)
+- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) -  (2 weeks ago)
 - [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups! (4 weeks ago)
 
 #### 🌱 My latest projects
 
+- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - 
 - [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
 - [masfernandez/embalses](https://github.com/masfernandez/embalses) - PHP kata
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of...
