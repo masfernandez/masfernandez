@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) -  (3 days ago)
-- [masfernandez/dotfiles](https://github.com/masfernandez/dotfiles) -  (3 days ago)
+- [masfernandez/dotfiles](https://github.com/masfernandez/dotfiles) -  (4 days ago)
+- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) -  (4 days ago)
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of... (2 months ago)
 - [masfernandez/masfernandez.github.io](https://github.com/masfernandez/masfernandez.github.io) -  (2 months ago)
 - [masfernandez/embalses](https://github.com/masfernandez/embalses) - PHP kata (2 months ago)
