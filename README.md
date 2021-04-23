@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of... (2 weeks ago)
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of... (3 weeks ago)
 - [masfernandez/dotfiles](https://github.com/masfernandez/dotfiles) -  (3 weeks ago)
 - [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) -  (3 weeks ago)
 - [masfernandez/masfernandez.github.io](https://github.com/masfernandez/masfernandez.github.io) -  (2 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) ([v0.3.2](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs/releases/tag/v0.3.2), 2 weeks ago) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of...
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) ([v0.3.2](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs/releases/tag/v0.3.2), 3 weeks ago) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of...
 - [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) ([v0.0.1](https://github.com/masfernandez/nginx-proxy-local-development/releases/tag/v0.0.1), 4 months ago) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
 
 #### 📓 Gists I wrote
