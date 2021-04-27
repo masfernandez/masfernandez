@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of... (1 day ago)
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of... (today)
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs (2 days ago)
 - [masfernandez/dotfiles](https://github.com/masfernandez/dotfiles) -  (1 month ago)
 - [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) -  (1 month ago)
