@@ -3,7 +3,7 @@
 <table cellspacing="0" cellpadding="0" style="border: none">
 <tbody>
 <tr>
-<th></th>
+<th style="width: 45%;"></th>
 <th>#### 👷 Check out what I'm currently working on</th>
 </tr>
 <tr>
@@ -13,13 +13,13 @@
 <td>
 
 
-- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of... (1 day ago)
-- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs (1 day ago)
-- [masfernandez/dotfiles](https://github.com/masfernandez/dotfiles) -  (1 month ago)
-- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) -  (1 month ago)
-- [masfernandez/masfernandez.github.io](https://github.com/masfernandez/masfernandez.github.io) -  (3 months ago)
-- [masfernandez/embalses](https://github.com/masfernandez/embalses) - PHP kata (3 months ago)
-- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups! (4 months ago)
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (1 day ago)
+- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - (1 day ago)
+- [masfernandez/dotfiles](https://github.com/masfernandez/dotfiles) - (1 month ago)
+- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - (1 month ago)
+- [masfernandez/masfernandez.github.io](https://github.com/masfernandez/masfernandez.github.io) - (3 months ago)
+- [masfernandez/embalses](https://github.com/masfernandez/embalses) - (3 months ago)
+- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - (4 months ago)
 
 </td>
 </tr>
