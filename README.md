@@ -1,30 +1,24 @@
 ### Hi there 👋
 
-<table cellspacing="0" cellpadding="0" style="border: none">
-  <tbody>
-    <tr>
-      <th></th>
-      <th>#### 👷 Check out what I'm currently working on</th>
-    </tr>
-    <tr>
-  <td>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=masfernandez" />
-  </td>
-    <td>
+#### 👷 Check out what I'm currently working on
 
-- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs)
-- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp)
-- [masfernandez/dotfiles](https://github.com/masfernandez/dotfiles)
-- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm)
-- [masfernandez/masfernandez.github.io](https://github.com/masfernandez/masfernandez.github.io)
-- [masfernandez/embalses](https://github.com/masfernandez/embalses)
-- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development)
- 
-  </td>
-    </tr>
-  </tbody>
-</table>
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of... (1 day ago)
+- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs (1 day ago)
+- [masfernandez/dotfiles](https://github.com/masfernandez/dotfiles) -  (1 month ago)
+- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) -  (1 month ago)
+- [masfernandez/masfernandez.github.io](https://github.com/masfernandez/masfernandez.github.io) -  (3 months ago)
+- [masfernandez/embalses](https://github.com/masfernandez/embalses) - PHP kata (3 months ago)
+- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups! (4 months ago)
 
+#### 🌱 My latest projects
+
+- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
+- [masfernandez/dotfiles](https://github.com/masfernandez/dotfiles) - 
+- [masfernandez/masfernandez.github.io](https://github.com/masfernandez/masfernandez.github.io) - 
+- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - 
+- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
+- [masfernandez/embalses](https://github.com/masfernandez/embalses) - PHP kata
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of...
 
 #### 🔭 Latest releases I've contributed to
 
@@ -42,7 +36,3 @@
 #### 📫 How to reach me
 
 [Miguel Ángel Sánchez Fernández](mailto:mangel.sanfer@gmail.com?subject=[GitHub]%20Contact)
-
-<p>
-<img src="https://views.whatilearened.today/views/github/masfernandez/views.svg"/>
-</p>
