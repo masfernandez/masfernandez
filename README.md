@@ -11,8 +11,7 @@
             <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=masfernandez" />
         </td>
         <td>
-
-            #### 👷 Check out what I'm currently working on
+            
             
             - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of... (1 day ago)
             - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs (1 day ago)
