@@ -44,6 +44,8 @@
 <a href="mailto:mangel.sanfer@gmail.com?subject=[GitHub]%20Contact"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/mangel.sanfer"><img src="https://img.shields.io/badge/-@mangel.sanfer-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
+#### 🧭 Stats
+
 <p>
     <img src="https://views.whatilearened.today/views/github/masfernandez/views.svg"/>
 </p>
