@@ -1,9 +1,26 @@
 ### Hi there 👋
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+<table cellspacing="0" cellpadding="0" style="border: none">
+    <tbody>
+    <tr>
+        <th></th>
+        <th>#### 👷 Check out what I'm currently working on</th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=masfernandez" />
+        </td>
+        <td>
+
+            #### 👷 Check out what I'm currently working on
+            {{range recentContributions 10}}
+            - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+            {{- end}}
+
+        </td>
+    </tr>
+    </tbody>
+</table>
 
 #### 🌱 My latest projects
 {{range recentRepos 10}}
@@ -23,3 +40,7 @@
 #### 📫 How to reach me
 
 [Miguel Ángel Sánchez Fernández](mailto:mangel.sanfer@gmail.com?subject=[GitHub]%20Contact)
+
+<p>
+    <img src="https://views.whatilearened.today/views/github/masfernandez/views.svg"/>
+</p>
