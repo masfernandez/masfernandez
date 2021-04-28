@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<table cellspacing="0" cellpadding="0" style="border: none">
+<table cellspacing="0" cellpadding="0" style="border: none; width: 100%;">
 <tbody>
 <tr>
 <th style="width: 45%;"></th>
 <th>#### 👷 Check out what I'm currently working on</th>
 </tr>
 <tr>
-<td>
+<td align="center">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=masfernandez" />
 </td>
 <td>
