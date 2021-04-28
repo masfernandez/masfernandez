@@ -11,8 +11,7 @@
             <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=masfernandez" />
         </td>
         <td>
-
-            #### 👷 Check out what I'm currently working on
+            
             {{range recentContributions 10}}
             - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
             {{- end}}
