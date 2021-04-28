@@ -3,7 +3,7 @@
 <table cellspacing="0" cellpadding="0" style="border: none">
 <tbody>
 <tr>
-<th></th>
+<th style="width: 45%;"></th>
 <th>#### 👷 Check out what I'm currently working on</th>
 </tr>
 <tr>
@@ -13,7 +13,7 @@
 <td>
 
 {{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - ({{humanize .OccurredAt}})
 {{- end}}
 
 </td>
