@@ -11,8 +11,8 @@
 <td>
 
 
-- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (2 days ago)
-- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - (2 days ago)
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (3 days ago)
+- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - (3 days ago)
 - [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - (1 month ago)
 - [masfernandez/embalses](https://github.com/masfernandez/embalses) - (3 months ago)
 - [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - (4 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) ([v0.1.0](https://github.com/masfernandez/react-front-webapp/releases/tag/v0.1.0), 1 week ago) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
+- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) ([v0.1.0](https://github.com/masfernandez/react-front-webapp/releases/tag/v0.1.0), 2 weeks ago) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) ([v0.3.2](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs/releases/tag/v0.3.2), 1 month ago) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of...
 - [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) ([v0.0.1](https://github.com/masfernandez/nginx-proxy-local-development/releases/tag/v0.0.1), 4 months ago) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
 
