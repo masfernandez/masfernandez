@@ -11,8 +11,8 @@
 <td>
 
 
-- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (6 days ago)
-- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - (6 days ago)
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (1 week ago)
+- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - (1 week ago)
 - [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - (1 month ago)
 - [masfernandez/embalses](https://github.com/masfernandez/embalses) - (4 months ago)
 - [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - (4 months ago)
