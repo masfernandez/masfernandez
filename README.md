@@ -11,6 +11,9 @@
 <td>
 
 
+- [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - (today)
+- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - (today)
+- [masfernandez/deathstar-request-search-uc](https://github.com/masfernandez/deathstar-request-search-uc) - (today)
 - [masfernandez/test](https://github.com/masfernandez/test) - (1 month ago)
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (3 months ago)
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - (5 months ago)
@@ -25,10 +28,9 @@
 
 #### 🌱 My latest projects
 
-- [masfernandez/death-star-spaceships-shared](https://github.com/masfernandez/death-star-spaceships-shared) - 
-- [masfernandez/death-star-spaceships-control-api](https://github.com/masfernandez/death-star-spaceships-control-api) - 
-- [masfernandez/death-star-spaceships-control](https://github.com/masfernandez/death-star-spaceships-control) - 
-- [masfernandez/death-star-spaceships-control-web-client](https://github.com/masfernandez/death-star-spaceships-control-web-client) - 
+- [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - 
+- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - 
+- [masfernandez/deathstar-request-search-uc](https://github.com/masfernandez/deathstar-request-search-uc) - 
 - [masfernandez/test](https://github.com/masfernandez/test) - 
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
 - [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - 
