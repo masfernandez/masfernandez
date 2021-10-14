@@ -11,15 +11,15 @@
 <td>
 
 
-- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - (1 day ago)
-- [masfernandez/deathstar-request-search-uc](https://github.com/masfernandez/deathstar-request-search-uc) - (1 day ago)
-- [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - (1 day ago)
+- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - (2 days ago)
+- [masfernandez/deathstar-request-search-uc](https://github.com/masfernandez/deathstar-request-search-uc) - (2 days ago)
+- [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - (2 days ago)
 - [masfernandez/test](https://github.com/masfernandez/test) - (1 month ago)
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (4 months ago)
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - (5 months ago)
 - [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - (6 months ago)
 - [masfernandez/embalses](https://github.com/masfernandez/embalses) - (9 months ago)
-- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - (9 months ago)
+- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - (10 months ago)
 
 </td>
 </tr>
@@ -42,7 +42,7 @@
 
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) ([v0.1.0](https://github.com/masfernandez/react-front-webapp/releases/tag/v0.1.0), 5 months ago) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) ([v0.3.2](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs/releases/tag/v0.3.2), 6 months ago) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of...
-- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) ([v0.0.1](https://github.com/masfernandez/nginx-proxy-local-development/releases/tag/v0.0.1), 9 months ago) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
+- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) ([v0.0.1](https://github.com/masfernandez/nginx-proxy-local-development/releases/tag/v0.0.1), 10 months ago) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
 
 #### 📓 Gists I wrote
 
