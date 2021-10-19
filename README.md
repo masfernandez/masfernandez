@@ -11,9 +11,6 @@
 <td>
 
 
-- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - (1 week ago)
-- [masfernandez/deathstar-request-search-uc](https://github.com/masfernandez/deathstar-request-search-uc) - (1 week ago)
-- [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - (1 week ago)
 - [masfernandez/test](https://github.com/masfernandez/test) - (2 months ago)
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (4 months ago)
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - (5 months ago)
@@ -28,9 +25,6 @@
 
 #### 🌱 My latest projects
 
-- [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - 
-- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - 
-- [masfernandez/deathstar-request-search-uc](https://github.com/masfernandez/deathstar-request-search-uc) - 
 - [masfernandez/test](https://github.com/masfernandez/test) - 
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
 - [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - 
