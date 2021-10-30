@@ -11,8 +11,9 @@
 <td>
 
 
-- [masfernandez/deathstar-search-use-case](https://github.com/masfernandez/deathstar-search-use-case) - (today)
 - [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - (today)
+- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - (today)
+- [masfernandez/deathstar-search-use-case](https://github.com/masfernandez/deathstar-search-use-case) - (today)
 - [masfernandez/test](https://github.com/masfernandez/test) - (2 months ago)
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (4 months ago)
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - (5 months ago)
@@ -28,6 +29,7 @@
 #### 🌱 My latest projects
 
 - [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - 
+- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - 
 - [masfernandez/deathstar-search-use-case](https://github.com/masfernandez/deathstar-search-use-case) - 
 - [masfernandez/test](https://github.com/masfernandez/test) - 
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
