@@ -11,16 +11,16 @@
 <td>
 
 
-- [masfernandez/value-object](https://github.com/masfernandez/value-object) - (today)
-- [masfernandez/message-bus](https://github.com/masfernandez/message-bus) - (today)
 - [masfernandez/request-validator](https://github.com/masfernandez/request-validator) - (today)
+- [masfernandez/message-bus](https://github.com/masfernandez/message-bus) - (today)
+- [masfernandez/value-object](https://github.com/masfernandez/value-object) - (today)
+- [masfernandez/doctrine-criteria](https://github.com/masfernandez/doctrine-criteria) - (today)
+- [masfernandez/doctrine-type](https://github.com/masfernandez/doctrine-type) - (today)
+- [masfernandez/deathstar-search-use-case](https://github.com/masfernandez/deathstar-search-use-case) - (1 day ago)
 - [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - (1 day ago)
 - [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - (1 day ago)
-- [masfernandez/deathstar-search-use-case](https://github.com/masfernandez/deathstar-search-use-case) - (1 day ago)
 - [masfernandez/test](https://github.com/masfernandez/test) - (2 months ago)
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (4 months ago)
-- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - (5 months ago)
-- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - (7 months ago)
 
 </td>
 </tr>
@@ -29,6 +29,8 @@
 
 #### 🌱 My latest projects
 
+- [masfernandez/doctrine-type](https://github.com/masfernandez/doctrine-type) - 
+- [masfernandez/doctrine-criteria](https://github.com/masfernandez/doctrine-criteria) - 
 - [masfernandez/value-object](https://github.com/masfernandez/value-object) - 
 - [masfernandez/message-bus](https://github.com/masfernandez/message-bus) - 
 - [masfernandez/request-validator](https://github.com/masfernandez/request-validator) - 
@@ -37,8 +39,6 @@
 - [masfernandez/deathstar-search-use-case](https://github.com/masfernandez/deathstar-search-use-case) - 
 - [masfernandez/test](https://github.com/masfernandez/test) - 
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
-- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - 
-- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
 
 #### 🔭 Latest releases I've contributed to
 
