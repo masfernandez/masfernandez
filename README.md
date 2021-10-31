@@ -11,6 +11,7 @@
 <td>
 
 
+- [masfernandez/value-object](https://github.com/masfernandez/value-object) - (today)
 - [masfernandez/message-bus](https://github.com/masfernandez/message-bus) - (today)
 - [masfernandez/request-validator](https://github.com/masfernandez/request-validator) - (today)
 - [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - (1 day ago)
@@ -20,7 +21,6 @@
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (4 months ago)
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - (5 months ago)
 - [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - (7 months ago)
-- [masfernandez/embalses](https://github.com/masfernandez/embalses) - (9 months ago)
 
 </td>
 </tr>
@@ -29,6 +29,7 @@
 
 #### 🌱 My latest projects
 
+- [masfernandez/value-object](https://github.com/masfernandez/value-object) - 
 - [masfernandez/message-bus](https://github.com/masfernandez/message-bus) - 
 - [masfernandez/request-validator](https://github.com/masfernandez/request-validator) - 
 - [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - 
@@ -38,7 +39,6 @@
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
 - [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - 
 - [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
-- [masfernandez/embalses](https://github.com/masfernandez/embalses) - PHP kata
 
 #### 🔭 Latest releases I've contributed to
 
