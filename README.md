@@ -12,9 +12,9 @@
 
 
 - [masfernandez/request-validator](https://github.com/masfernandez/request-validator) - (today)
+- [masfernandez/value-object](https://github.com/masfernandez/value-object) - (today)
 - [masfernandez/doctrine-criteria](https://github.com/masfernandez/doctrine-criteria) - (today)
 - [masfernandez/doctrine-type](https://github.com/masfernandez/doctrine-type) - (today)
-- [masfernandez/value-object](https://github.com/masfernandez/value-object) - (today)
 - [masfernandez/message-bus](https://github.com/masfernandez/message-bus) - (today)
 - [masfernandez/deathstar-search-use-case](https://github.com/masfernandez/deathstar-search-use-case) - (1 day ago)
 - [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - (1 day ago)
