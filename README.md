@@ -11,14 +11,14 @@
 <td>
 
 
-- [masfernandez/doctrine-criteria](https://github.com/masfernandez/doctrine-criteria) - (2 weeks ago)
-- [masfernandez/value-object](https://github.com/masfernandez/value-object) - (2 weeks ago)
-- [masfernandez/request-validator](https://github.com/masfernandez/request-validator) - (2 weeks ago)
-- [masfernandez/doctrine-type](https://github.com/masfernandez/doctrine-type) - (2 weeks ago)
-- [masfernandez/deathstar-search-use-case](https://github.com/masfernandez/deathstar-search-use-case) - (2 weeks ago)
-- [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - (2 weeks ago)
-- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - (2 weeks ago)
-- [masfernandez/message-bus](https://github.com/masfernandez/message-bus) - (2 weeks ago)
+- [masfernandez/doctrine-criteria](https://github.com/masfernandez/doctrine-criteria) - (3 weeks ago)
+- [masfernandez/value-object](https://github.com/masfernandez/value-object) - (3 weeks ago)
+- [masfernandez/request-validator](https://github.com/masfernandez/request-validator) - (3 weeks ago)
+- [masfernandez/doctrine-type](https://github.com/masfernandez/doctrine-type) - (3 weeks ago)
+- [masfernandez/deathstar-search-use-case](https://github.com/masfernandez/deathstar-search-use-case) - (3 weeks ago)
+- [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - (3 weeks ago)
+- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - (3 weeks ago)
+- [masfernandez/message-bus](https://github.com/masfernandez/message-bus) - (3 weeks ago)
 - [masfernandez/test](https://github.com/masfernandez/test) - (3 months ago)
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (5 months ago)
 
@@ -42,7 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) ([v0.1.0](https://github.com/masfernandez/react-front-webapp/releases/tag/v0.1.0), 6 months ago) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
+- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) ([v0.1.0](https://github.com/masfernandez/react-front-webapp/releases/tag/v0.1.0), 7 months ago) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) ([v0.3.2](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs/releases/tag/v0.3.2), 7 months ago) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of...
 - [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) ([v0.0.1](https://github.com/masfernandez/nginx-proxy-local-development/releases/tag/v0.0.1), 11 months ago) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
 
