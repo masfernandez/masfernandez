@@ -47,7 +47,7 @@
 
 #### 📓 Gists I wrote
 
-- [cat file without comments](https://gist.github.com/1d9130306df464fe1897df1728291704) (11 months ago)
+- [cat file without comments](https://gist.github.com/1d9130306df464fe1897df1728291704) (1 year ago)
 - [Varnish-5.0-configuration-templates](https://gist.github.com/56f2794ee6c9a0e46947b469a7653a5c) (3 years ago)
 - [Doctrine YAML configuration reference](https://gist.github.com/8ac27c85e889986f51ed1ee3a1209ff3) (3 years ago)
 - [PHP Xdebug on Docker for Mac](https://gist.github.com/fb1ad02b624f911040b70afbf9c6db44) (3 years ago)
