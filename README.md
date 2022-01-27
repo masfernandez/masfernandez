@@ -43,7 +43,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) ([v0.1.0](https://github.com/masfernandez/react-front-webapp/releases/tag/v0.1.0), 9 months ago) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
-- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) ([v0.3.2](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs/releases/tag/v0.3.2), 9 months ago) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of...
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) ([v0.3.2](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs/releases/tag/v0.3.2), 10 months ago) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of...
 
 #### 📓 Gists I wrote
 
