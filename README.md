@@ -20,7 +20,7 @@
 - [masfernandez/doctrine-type](https://github.com/masfernandez/doctrine-type) - (3 months ago)
 - [masfernandez/value-object](https://github.com/masfernandez/value-object) - (3 months ago)
 - [masfernandez/test](https://github.com/masfernandez/test) - (5 months ago)
-- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (7 months ago)
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (8 months ago)
 
 </td>
 </tr>
