@@ -11,7 +11,7 @@
 <td>
 
 
-- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (1 week ago)
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (2 weeks ago)
 - [masfernandez/doctrine-criteria](https://github.com/masfernandez/doctrine-criteria) - (4 months ago)
 - [masfernandez/request-validator](https://github.com/masfernandez/request-validator) - (4 months ago)
 - [masfernandez/deathstar-search-use-case](https://github.com/masfernandez/deathstar-search-use-case) - (4 months ago)
