@@ -11,8 +11,8 @@
 <td>
 
 
-- [masfernandez/article-feature-backend](https://github.com/masfernandez/article-feature-backend) - (1 day ago)
-- [masfernandez/article-feature](https://github.com/masfernandez/article-feature) - (1 day ago)
+- [masfernandez/article-feature-backend](https://github.com/masfernandez/article-feature-backend) - (2 days ago)
+- [masfernandez/article-feature](https://github.com/masfernandez/article-feature) - (2 days ago)
 - [masfernandez/article-feature-frontend](https://github.com/masfernandez/article-feature-frontend) - (1 week ago)
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (4 months ago)
 - [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - (8 months ago)
