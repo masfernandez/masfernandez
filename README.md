@@ -11,16 +11,10 @@
 <td>
 
 
-- [masfernandez/article-feature-backend](https://github.com/masfernandez/article-feature-backend) - (2 days ago)
 - [masfernandez/article-feature](https://github.com/masfernandez/article-feature) - (2 days ago)
+- [masfernandez/article-feature-backend](https://github.com/masfernandez/article-feature-backend) - (2 days ago)
 - [masfernandez/article-feature-frontend](https://github.com/masfernandez/article-feature-frontend) - (1 week ago)
 - [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - (4 months ago)
-- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - (8 months ago)
-- [masfernandez/message-bus](https://github.com/masfernandez/message-bus) - (8 months ago)
-- [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - (8 months ago)
-- [masfernandez/request-validator](https://github.com/masfernandez/request-validator) - (8 months ago)
-- [masfernandez/deathstar-search-use-case](https://github.com/masfernandez/deathstar-search-use-case) - (8 months ago)
-- [masfernandez/doctrine-type](https://github.com/masfernandez/doctrine-type) - (8 months ago)
 
 </td>
 </tr>
@@ -32,13 +26,11 @@
 - [masfernandez/article-feature-frontend](https://github.com/masfernandez/article-feature-frontend) - 
 - [masfernandez/article-feature](https://github.com/masfernandez/article-feature) - 
 - [masfernandez/article-feature-backend](https://github.com/masfernandez/article-feature-backend) - 
-- [masfernandez/doctrine-type](https://github.com/masfernandez/doctrine-type) - 
-- [masfernandez/doctrine-criteria](https://github.com/masfernandez/doctrine-criteria) - 
-- [masfernandez/value-object](https://github.com/masfernandez/value-object) - 
-- [masfernandez/message-bus](https://github.com/masfernandez/message-bus) - 
-- [masfernandez/request-validator](https://github.com/masfernandez/request-validator) - 
-- [masfernandez/deathstar-shared](https://github.com/masfernandez/deathstar-shared) - 
-- [masfernandez/deathstar](https://github.com/masfernandez/deathstar) - 
+- [masfernandez/react-front-webapp](https://github.com/masfernandez/react-front-webapp) - Frontend webapp for the api project https://github.com/masfernandez/symfony-ddd-hexarch-cqrs
+- [masfernandez/symfony-docker-nginx-phpfpm](https://github.com/masfernandez/symfony-docker-nginx-phpfpm) - 
+- [masfernandez/nginx-proxy-local-development](https://github.com/masfernandez/nginx-proxy-local-development) - Easy management for SSL/TLS certificates and proxying local webservers for fast development setups!
+- [masfernandez/embalses](https://github.com/masfernandez/embalses) - PHP kata
+- [masfernandez/symfony-ddd-hexarch-cqrs](https://github.com/masfernandez/symfony-ddd-hexarch-cqrs) - Code examples and good practices using Domain Drive Development, Hexagonal Architecture, CQRS, Symfony 5, PHP8 and anything else I can think of...
 
 #### 🔭 Latest releases I've contributed to
 
